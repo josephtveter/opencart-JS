@@ -1,0 +1,6 @@
+{
+"text_upload"    = "Your file was successfully uploaded!",
+"error_filename" = "Filename must be between 3 and 64 characters!",
+"error_filetype" = "Invalid file type!",
+"error_upload"   = "Upload required!"
+}

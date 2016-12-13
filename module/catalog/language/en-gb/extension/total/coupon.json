@@ -1,0 +1,8 @@
+{
+"heading_title" : "Use Coupon Code",
+"text_coupon"   : "Coupon (%s)",
+"text_success"  : "Success: Your coupon discount has been applied!",
+"entry_coupon"  : "Enter your coupon here",
+"error_coupon"  : "Warning: Coupon is either invalid, expired or reached its usage limit!",
+"error_empty"   : "Warning: Please enter a coupon code!"
+}

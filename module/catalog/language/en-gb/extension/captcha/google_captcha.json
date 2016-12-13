@@ -1,0 +1,5 @@
+{
+"text_captcha" : "Captcha",
+"entry_captcha" : "Please complete the captcha validation below",
+"error_captcha" : "Verification is not correct!"
+}

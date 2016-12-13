@@ -1,0 +1,5 @@
+{
+"text_captcha" : "Captcha",
+"entry_captcha" : "Enter the code in the box below",
+"error_captcha" : "Verification code does not match the image!"
+}
